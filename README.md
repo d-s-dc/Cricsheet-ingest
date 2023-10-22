@@ -16,6 +16,7 @@ This code will download ODI data from the website, pre-process it using spark an
 
 
 ## Running
+Before running ensure that the `MYSQL_PASSWORD` variable is set to your root password in the `.env` file.
 
 Open the folder on the terminal and run the following
 ```
